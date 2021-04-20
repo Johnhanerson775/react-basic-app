@@ -1,0 +1,40 @@
+.product-row-container {
+   width: 95%; 
+   margin: 0 auto;
+   min-height: 28px;
+   border: 1px solid red ;
+   margin-top: 10px;
+  }
+  .product1{
+   text-align: left;
+   word-spacing: 60px;
+   }
+   .product2{
+      text-align: left;
+      word-spacing: 60px;
+      }
+      .product3{
+         text-align: left;
+         word-spacing: 40px;
+         
+          }
+          .product3 strong {
+             color: red;
+          }
+         
+         .product4{
+            text-align: left;
+            word-spacing: 46px;
+            }
+            .product5 {
+               text-align: left;
+               word-spacing: 55px;
+               }
+               .product5 strong{
+                  color: red;
+               }
+               .product6{
+                  text-align: left;
+                  word-spacing: 73px;
+                  }
+
